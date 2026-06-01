@@ -1,0 +1,35 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Backup files
+*.bak
+*.swp
+*~
+
+# Node.js (if you later add tooling)
+node_modules/
+
+# Build output (if you later add a build step)
+dist/
+build/
+
+# Environment files
+.env
+.env.*
